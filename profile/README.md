@@ -6,7 +6,7 @@ Please include `issue`|`problem`|`bug`|`feature` and `console-utils` words in a 
 
 # What does organization site contain?
 
-Organization site contain only the following things:
+Organization site contains only the following things:
 
 - plans related to writting console utils
 - console utils tutorials
