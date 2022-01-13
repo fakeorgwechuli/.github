@@ -1,0 +1,11 @@
+name: Continuous Delivery
+on:
+  push:
+    branches: [ $default-branch ]
+  workflow_dispatch:
+
+jobs:
+  check-mergeability:
+    uses: Console-Utils/ci-helpers/.github/workflows/cd.yml@main
+    with:
+      publish: false
