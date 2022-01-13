@@ -1,1 +1,3 @@
-# .github
+# Description
+
+Organization README and configs.
